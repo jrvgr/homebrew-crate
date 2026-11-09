@@ -1,6 +1,6 @@
 cask "crate" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.1"
+  sha256 "14ffeb8706a49e79e66b61afbbffb56dc6e5fdd4048bbd40b990d3fd24e50dbd"
 
   url "https://github.com/jrvgr/crate/releases/download/v#{version}/Crate-v#{version}.dmg"
   name "Crate"
